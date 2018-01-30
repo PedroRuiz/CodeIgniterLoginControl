@@ -6,8 +6,7 @@ To install it, just copy all directories in third_party. Then move or copy contr
 
 In application/Auth.php set the login function like this.
 /**
-	 * Log the user in
-	 */
+	
 	public function login()
 	{
 		$this->data['title'] = $this->lang->line('login_heading');
@@ -63,4 +62,7 @@ In application/Auth.php set the login function like this.
     
 	}
   
+  **/
   
+  
+  That's all. Enjoy.
