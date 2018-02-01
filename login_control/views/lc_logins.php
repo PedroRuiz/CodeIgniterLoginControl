@@ -17,4 +17,3 @@
     </tr>
 <?php endforeach;?>
 </table>
-</main>
